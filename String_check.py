@@ -14,4 +14,3 @@ elif s1!=s2 and s1!=s3 and s2!=s3 :
     print("Уууу")
 else:
     print("Аааа")
-
